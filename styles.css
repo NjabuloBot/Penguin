@@ -64,6 +64,8 @@ body{
    border-top-left-radius: 70%;
    border-bottom-left-radius: 65%;
    border-bottom-right-radius: 65%;
+   top:10%;
+   left:25%;
 }
 
 .penguin-body{
