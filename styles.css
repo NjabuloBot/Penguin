@@ -230,6 +230,7 @@ body{
    left:5%;
    transform:rotate(130deg) scaleX(-1);
    transform-origin:0% 0%;
+   animation:wave 3s linear infinite;
 }
  .arm.right{
    top:0%;
